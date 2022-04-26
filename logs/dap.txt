@@ -1,0 +1,17 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.36.0
+Flutter extension: 3.38.1 (not activated)
+
+App: Visual Studio Code
+Version: 1.66.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    DAP
+
+Fri Apr 15 2022 [14:41:17 GMT+0430 (Afghanistan Time)] Log file started
+[2:41:30 PM] [General] [Error] Failed to send analytics: Error: socket hang up

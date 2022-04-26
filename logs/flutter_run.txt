@@ -1,0 +1,22 @@
+[8:59:16 PM]: Spawning C:\Src\flutter\bin\flutter.bat with args ["run","--machine","--start-paused","-d","emulator-5554","--dart-define=flutter.inspector.structuredErrors=true","--devtools-server-address","http://127.0.0.1:9100/","--target","lib\\main.dart"]
+[8:59:16 PM]: ..  in D:\Development\Flutter\food_delivery
+[8:59:16 PM]: ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[8:59:16 PM]: PID: 460
+[8:59:18 PM]: <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":11128}}]
+[8:59:18 PM]: <== [{"event":"app.start","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","deviceId":"emulator-5554","directory":"D:\\Development\\Flutter\\food_delivery","supportsRestart":true,"launchMode":"run"}}]
+[8:59:18 PM]: <== Launching lib\main.dart on Android SDK built for x86 in debug mode...
+[8:59:18 PM]: <== [{"event":"app.progress","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","id":"0","progressId":null,"message":"Running Gradle task 'assembleDebug'...","finished":false}}]
+[8:59:52 PM]: <== [{"event":"app.progress","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","id":"0","progressId":null,"finished":true}}]
+[8:59:53 PM]: <== √  Built build\app\outputs\flutter-apk\app-debug.apk.
+[8:59:53 PM]: <== [{"event":"app.progress","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","id":"1","progressId":null,"message":"Installing build\\app\\outputs\\flutter-apk\\app.apk...","finished":false}}]
+[8:59:55 PM]: <== [{"event":"app.progress","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","id":"1","progressId":null,"finished":true}}]
+[8:59:58 PM]: <== W/FlutterActivityAndFragmentDelegate( 5044): A splash screen was provided to Flutter, but this is deprecated. See flutter.dev/go/android-splash-migration for migration steps.
+[8:59:59 PM]: <== [{"event":"app.debugPort","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","port":55388,"wsUri":"ws://127.0.0.1:55388/G7pOTwO2juY=/ws","baseUri":"file:///data/user/0/com.example.food_delivery/code_cache/food_deliveryJYXXQJ/food_delivery/"}}]
+[8:59:59 PM]: <== [{"event":"app.progress","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","id":"2","progressId":null,"message":"Syncing files to device Android SDK built for x86...","finished":false}}]
+[8:59:59 PM]: <== [{"event":"app.progress","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","id":"2","progressId":null,"finished":true}}]
+[8:59:59 PM]: <== [{"event":"app.started","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24"}}]
+[9:00:01 PM]: ==> [{"id":"1","method":"app.callServiceExtension","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24","methodName":"ext.flutter.inspector.structuredErrors","params":{"enabled":true}}}]
+[9:00:04 PM]: <== [{"id":"1","result":{"enabled":"true","type":"_extensionType","method":"ext.flutter.inspector.structuredErrors"}}]
+[9:24:29 PM]: ==> [{"id":"2","method":"app.stop","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24"}}]
+[9:24:29 PM]: <== Application finished.
+[9:24:29 PM]: <== [{"event":"app.stop","params":{"appId":"f972f75c-f38e-47e6-8b9f-73286819ef24"}}]

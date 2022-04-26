@@ -1,0 +1,177 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.36.0
+Flutter extension: 3.38.1 (not activated)
+
+App: Visual Studio Code
+Version: 1.66.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    General
+
+Fri Apr 15 2022 [14:41:17 GMT+0430 (Afghanistan Time)] Log file started
+[2:41:17 PM] [General] [Info] Searching for SDKs...
+[2:41:17 PM] [General] [Info] Environment PATH:
+[2:41:17 PM] [General] [Info]     C:\WINDOWS\system32
+[2:41:17 PM] [General] [Info]     C:\WINDOWS
+[2:41:17 PM] [General] [Info]     C:\WINDOWS\System32\Wbem
+[2:41:17 PM] [General] [Info]     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[2:41:17 PM] [General] [Info]     C:\WINDOWS\System32\OpenSSH\
+[2:41:17 PM] [General] [Info]     C:\Program Files\nodejs\
+[2:41:17 PM] [General] [Info]     C:\Src\flutter\bin
+[2:41:17 PM] [General] [Info]     C:\ProgramData\chocolatey\bin
+[2:41:17 PM] [General] [Info]     C:\Program Files\OpenJDK\openjdk-8u312-b07\bin
+[2:41:17 PM] [General] [Info]     C:\Program Files\Git\cmd
+[2:41:17 PM] [General] [Info]     C:\Users\Faiz Rahman\AppData\Local\Microsoft\WindowsApps
+[2:41:17 PM] [General] [Info]     C:\Users\Faiz Rahman\AppData\Local\Programs\Microsoft VS Code\bin
+[2:41:17 PM] [General] [Info]     C:\Users\Faiz Rahman\AppData\Roaming\npm
+[2:41:17 PM] [General] [Info]     C:\Users\Faiz Rahman\AppData\Local\Android\Sdk\platform-tools
+[2:41:17 PM] [General] [Info] Found Flutter project at D:\Development\Flutter\food_delivery:
+			Mobile? true
+			Web? false
+			Create Trigger? false
+			Flutter Repo? false
+[2:41:17 PM] [General] [Info] Searching for flutter.bat
+[2:41:17 PM] [General] [Info]     Looking for flutter.bat in:
+[2:41:17 PM] [General] [Info]         D:\Development\Flutter\food_delivery
+[2:41:17 PM] [General] [Info]         D:\Development\Flutter\food_delivery\bin
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\
+[2:41:17 PM] [General] [Info]         D:\Development\Flutter\food_delivery\.flutter
+[2:41:17 PM] [General] [Info]         D:\Development\Flutter\food_delivery\.flutter\bin
+[2:41:17 PM] [General] [Info]         D:\Development\Flutter\food_delivery\vendor\flutter
+[2:41:17 PM] [General] [Info]         D:\Development\Flutter\food_delivery\vendor\flutter\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\flutter-sdk
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\flutter-sdk\bin
+[2:41:17 PM] [General] [Info]         /google/flutter
+[2:41:17 PM] [General] [Info]         \google\flutter\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\system32
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\system32\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\Wbem
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\Wbem\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\bin
+[2:41:17 PM] [General] [Info]         C:\Program Files\nodejs\
+[2:41:17 PM] [General] [Info]         C:\Program Files\nodejs\bin
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin
+[2:41:17 PM] [General] [Info]         C:\ProgramData\chocolatey\bin
+[2:41:17 PM] [General] [Info]         C:\Program Files\OpenJDK\openjdk-8u312-b07\bin
+[2:41:17 PM] [General] [Info]         C:\Program Files\Git\cmd
+[2:41:17 PM] [General] [Info]         C:\Program Files\Git\cmd\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Microsoft\WindowsApps
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Microsoft\WindowsApps\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Programs\Microsoft VS Code\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Roaming\npm
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Roaming\npm\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Android\Sdk\platform-tools
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Android\Sdk\platform-tools\bin
+[2:41:17 PM] [General] [Info]     Found at:
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin
+[2:41:17 PM] [General] [Info]     Candidate paths to be post-filtered:
+[2:41:17 PM] [General] [Info]         C:\Src\flutter
+[2:41:17 PM] [General] [Info]         C:\Src\flutter
+[2:41:17 PM] [General] [Info]     Found at C:\Src\flutter
+[2:41:17 PM] [General] [Info]     Returning SDK path C:\Src\flutter for flutter.bat
+[2:41:17 PM] [General] [Info] Searching for dart.exe
+[2:41:17 PM] [General] [Info]     Looking for dart.exe in:
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\cache\dart-sdk
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\cache\dart-sdk\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\system32
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\system32\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\Wbem
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\Wbem\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\
+[2:41:17 PM] [General] [Info]         C:\WINDOWS\System32\OpenSSH\bin
+[2:41:17 PM] [General] [Info]         C:\Program Files\nodejs\
+[2:41:17 PM] [General] [Info]         C:\Program Files\nodejs\bin
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin
+[2:41:17 PM] [General] [Info]         C:\ProgramData\chocolatey\bin
+[2:41:17 PM] [General] [Info]         C:\Program Files\OpenJDK\openjdk-8u312-b07\bin
+[2:41:17 PM] [General] [Info]         C:\Program Files\Git\cmd
+[2:41:17 PM] [General] [Info]         C:\Program Files\Git\cmd\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Microsoft\WindowsApps
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Microsoft\WindowsApps\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Programs\Microsoft VS Code\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Roaming\npm
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Roaming\npm\bin
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Android\Sdk\platform-tools
+[2:41:17 PM] [General] [Info]         C:\Users\Faiz Rahman\AppData\Local\Android\Sdk\platform-tools\bin
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\cache\dart-sdk
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\cache\dart-sdk\bin
+[2:41:17 PM] [General] [Info]     Found at:
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\cache\dart-sdk\bin
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\cache\dart-sdk\bin
+[2:41:17 PM] [General] [Info]     Candidate paths to be post-filtered:
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\cache\dart-sdk
+[2:41:17 PM] [General] [Info]         C:\Src\flutter\bin\cache\dart-sdk
+[2:41:17 PM] [General] [Info]     Found at C:\Src\flutter\bin\cache\dart-sdk
+[2:41:17 PM] [General] [Info]     Returning SDK path C:\Src\flutter\bin\cache\dart-sdk for dart.exe
+[2:41:17 PM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.36.0
+Flutter extension: 3.38.1 (not activated)
+
+App: Visual Studio Code
+Version: 1.66.2
+Platform: win
+
+Workspace type: Flutter
+Analyzer type: LSP
+Multi-root?: false
+
+Dart SDK:
+    Loc: C:\Src\flutter\bin\cache\dart-sdk
+    Ver: 2.15.1
+Flutter SDK:
+    Loc: C:\Src\flutter
+    Ver: 2.8.1
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[2:41:17 PM] [General] [Info] Spawning C:\Src\flutter\bin\cache\dart-sdk\bin\dart.exe with args ["devtools","--machine","--try-ports","10","--allow-embedding"]
+[2:41:17 PM] [General] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[2:41:17 PM] [General] [Info]     PID: 1540
+[2:41:17 PM] [General] [Info] Activating Flutter extension for Flutter project...
+[2:41:17 PM] [General] [Info] Extension:Startup timing: 311ms
+[2:41:18 PM] [General] [Info] Found 0 folders requiring "pub get":
+[2:41:18 PM] [General] [Info] !! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.36.0
+Flutter extension: 3.38.1 (activated)
+
+App: Visual Studio Code
+Version: 1.66.2
+Platform: win
+
+Workspace type: Flutter
+Analyzer type: LSP
+Multi-root?: false
+
+Dart SDK:
+    Loc: C:\Src\flutter\bin\cache\dart-sdk
+    Ver: 2.15.1
+Flutter SDK:
+    Loc: C:\Src\flutter
+    Ver: 2.8.1
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+[2:41:18 PM] [General] [Info] <== {"event":"server.started","method":"server.started","params":{"host":"127.0.0.1","port":9100,"pid":9812,"protocolVersion":"1.1.0"}}
+[2:41:18 PM] [General] [Info] Analyzer:Startup timing: 758ms
+[2:41:23 PM] [General] [Info] Checking 1 projects for supported platforms
+[2:41:23 PM] [General] [Info] Supported platforms for the workspace are ios, android
+[2:41:30 PM] [General] [Error] Failed to send analytics: Error: socket hang up
+[2:41:42 PM] [General] [Info] Analyzer:FirstAnalysis timing: 22370ms
+[2:42:11 PM] [General] [Info] Process C:\Src\flutter\bin\cache\dart-sdk\bin\dart.exe terminated! null, SIGTERM

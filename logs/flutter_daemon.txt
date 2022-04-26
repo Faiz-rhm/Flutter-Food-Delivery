@@ -1,0 +1,32 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.36.0
+Flutter extension: 3.38.1 (not activated)
+
+App: Visual Studio Code
+Version: 1.66.2
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    FlutterDaemon
+
+Fri Apr 15 2022 [14:41:17 GMT+0430 (Afghanistan Time)] Log file started
+[2:41:17 PM] [FlutterDaemon] [Info] Spawning C:\Src\flutter\bin\flutter.bat with args ["daemon"]
+[2:41:17 PM] [FlutterDaemon] [Info] ..  in C:\Src\flutter
+[2:41:17 PM] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[2:41:17 PM] [FlutterDaemon] [Info]     PID: 1540
+[2:41:17 PM] [FlutterDaemon] [Info] ==> [{"id":"1","method":"emulator.getEmulators"}]
+[2:41:19 PM] [FlutterDaemon] [Info] <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":5712}}]
+[2:41:19 PM] [FlutterDaemon] [Info] ==> [{"id":"2","method":"device.enable"}]
+[2:41:19 PM] [FlutterDaemon] [Info] <== [{"event":"daemon.logMessage","params":{"level":"status","message":"Starting device daemon..."}}]
+[2:41:19 PM] [FlutterDaemon] [Info] <== [{"id":"2"}]
+[2:41:19 PM] [FlutterDaemon] [Info] <== [{"id":"1","result":[{"id":"Pixel_4_XL_API_30","name":"Pixel 4 XL API 30","category":"mobile","platformType":"android"}]}]
+[2:41:23 PM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"edge","name":"Edge","platform":"web-javascript","emulator":false,"category":"web","platformType":"web","ephemeral":false,"emulatorId":null}}]
+[2:41:23 PM] [FlutterDaemon] [Info] ==> [{"id":"3","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"D:\\Development\\Flutter\\food_delivery"}}]
+[2:41:23 PM] [FlutterDaemon] [Info] <== [{"id":"3","result":{"platforms":["ios","android"]}}]
+[2:41:30 PM] [General] [Error] Failed to send analytics: Error: socket hang up
+[2:42:11 PM] [FlutterDaemon] [Info] ==> [{"id":"4","method":"daemon.shutdown"}]
+[2:42:11 PM] [FlutterDaemon] [Info] Process C:\Src\flutter\bin\flutter.bat terminated! null, SIGTERM
