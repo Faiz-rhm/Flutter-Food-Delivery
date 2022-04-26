@@ -1,6 +1,6 @@
 # Flutter-Food-Delivery-UI
 
-A sample app to showcase school assignment UI demo in flutter.
+A sample app to showcase food delivery UI demo in flutter.
 
 
 ## Development Setup
